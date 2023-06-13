@@ -1,2 +1,2 @@
 # Decision-Tree
-Mining Project.
+Model of Machine Learning.
